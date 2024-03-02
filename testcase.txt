@@ -1,0 +1,10 @@
+1.  Linear read
+2.  Linear write
+3.  Linear read and write
+4.  Non-linear read
+5.  Non-linear write
+6.  Non-linear read and write
+7.  Push element to end
+8.  Pop element from the end (or front)
+9.  Push element to in the middle of structure
+10. Pop element from in the middle of structure
